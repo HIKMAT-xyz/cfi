@@ -1,4 +1,4 @@
-# CRACK INSTAGRAM IN FREE TOOLS><
+8 # CRACK INSTAGRAM IN FREE TOOLS><
 
 # install bahan²
 
@@ -30,7 +30,7 @@ $ pip install rich
 
 $ pip install futures
 
-# FAST RUN SCRIPT DMF
+# FAST RUN SCRIPT CFI
 
 $ git clone https//github.com/HIKMAT-xyz/cfi
 
@@ -41,3 +41,4 @@ $ git pull
 $ python cfi.py
 
 # PAKE IYA FOLLOW KAGAK.. KONTOL LU
+# Thanks For You
